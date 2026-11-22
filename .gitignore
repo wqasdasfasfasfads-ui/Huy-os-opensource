@@ -1,0 +1,14 @@
+build/
+*.o
+*.elf
+*.bin
+*.img
+*.iso
+*.vdi
+*.vmdk
+*.vhd
+*.log
+.vscode/
+.idea/
+*.swp
+.DS_Store

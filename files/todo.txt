@@ -1,0 +1,5 @@
+TODO
+- FAT32 / ext2 disk filesystem
+- more Linux syscalls, more Win32 API
+- Mach-O loader (macOS programs)
+- network, USB, multitasking
